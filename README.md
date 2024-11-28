@@ -1,1 +1,1 @@
-# Software-Quality-Assurance-SQA-
+# Software-Quality-Assurance-SQA
